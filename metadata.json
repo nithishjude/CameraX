@@ -1,0 +1,5 @@
+{
+  "name": "Cametrax Studio",
+  "description": "A professional camera and lighting control interface for generating photorealistic images via FIBO/Bria API.",
+  "requestFramePermissions": []
+}
